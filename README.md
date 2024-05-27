@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application (PayScreen as seen below).
 
-![Uploading Simulator Screenshot - iPhone 15 Pro Max - 2024-05-27 at 12.12.45.png…]()
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-05-27 at 12 12 45](https://github.com/khodesmith/PayScreen/assets/16545342/1fca654d-ad59-4a72-bb24-ac14c2df634c)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
